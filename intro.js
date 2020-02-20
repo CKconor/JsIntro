@@ -2,7 +2,7 @@ var firstName = prompt("What is your First Name?")
 var lastName = prompt("What is your Surname?")
 var age = prompt("What is your Age?")
 
-alert("Great so your name is " + firstName + "" + lastName);
+alert("Great so your name is " + firstName + " " + lastName);
 alert("and your age is " + age);
 
 
